@@ -18,7 +18,9 @@ turns pokemon into ascii art wallpapers. type a name, pick a color, hit set as w
 
 ## running it
 
-needs python 3.9+. windows for the wallpaper part (it's a win32 call), the generation itself runs anywhere.
+windows user? grab the exe from the [releases page](https://github.com/Alvenzz/ascii-mon-studio/releases) and skip everything below.
+
+otherwise: needs python 3.9+. windows for the wallpaper part (it's a win32 call), the generation itself runs anywhere.
 
 ```
 pip install -r requirements.txt
