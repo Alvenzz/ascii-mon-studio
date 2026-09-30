@@ -1,0 +1,21 @@
+# build artifacts
+__pycache__/
+*.pyc
+.venv/
+build/
+dist/
+*.spec
+
+# user library (favorites/recents) - private
+library.json
+
+# generated wallpapers & art cache
+*.png
+art/
+# ...but README screenshots are part of the repo
+!screenshots/
+!screenshots/*.png
+
+# OS junk
+Thumbs.db
+.DS_Store
